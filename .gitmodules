@@ -1,0 +1,3 @@
+[submodule "new-submodule"]
+	path = new-submodule
+	url = https://github.com/Naistow/git-practice-5.git
