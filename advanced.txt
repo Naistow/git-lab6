@@ -1,0 +1,3 @@
+"Advanced Git features" 
+"Another change" 
+"Fix typo in advanced.txt" 
